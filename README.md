@@ -1,9 +1,12 @@
 This project will enable you to download torrents sequentially.
 
-Pre-requisites:
+
+### Pre-requisites:
  - docker
  - docker-compose
 
+
+### Installation
 
 1. build the image: `make build`
 
